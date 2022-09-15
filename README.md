@@ -1,11 +1,11 @@
 ### Hi there, I'm Matt Kulka 👋 💻
 [![Website](https://img.shields.io/website?label=matt-k.design&style=for-the-badge&url=https%3A%2F%2Fmatt-k.design)](https://matt-k.design)
 ## I'm a Computer Science Student!
-- 🔭 Im Currently studying for my Bachelors in Computer Science!
-- 🕹 I’m currently Developing for VR
-- 📈 I'm looking to get more work in Virtual Reality or App Development
-- 🥅 2021 Goals: I would like to build my portfolio to share my work
-- ⚡ Fun fact: I love to travel and photograph National Parks when im not coding 📷 
+- 🔭 I am studying for my Bachelors in Computer Science! (Graduation - Dec 22)
+- 🕹 I’m currently Developing for VR and learning Java Test Automation
+- 📈 I'm looking to get more work in Software Development
+- 🥅 2022 Goals: I would like to furhter build my portfolio to share my work
+- ⚡ Fun fact: I love to travel and practice photography when im not coding 📷 
 <br />
 <br />
 <br />
