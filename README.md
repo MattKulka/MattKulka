@@ -3,7 +3,7 @@
 ## Recent Gracuate from Thinkful (Software Engineering Bootcamp)
 - 🔭 I am Graduate with a Bachelors Degree in Computer Science and Mathematics (YSU 2022)
 - 🥅 2024 Goals: Land a job as a software engineer!
-- ⚡ Fun fact: I love to travel and practice photography when im not writing code 📷 
+- ⚡ Fun fact: I love to visit National Parks and practice photography when im not writing code 📷 
 <br />
 <br />
 <br />
