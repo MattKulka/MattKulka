@@ -1,5 +1,7 @@
 ### Hi there, I'm Matt Kulka 👋 💻
-[linkedin](https://www.linkedin.com/in/matt-kulka-9b6a38187/)
+Linkedin: [My Linkedin Profile](https://www.linkedin.com/in/matt-kulka-9b6a38187/)
+<br />
+Portfolio: [My Website](https://myportfolio-028q.onrender.com)
 ## Recent Graduate from Thinkful (Software Engineering Bootcamp)
 - 🔭 I am Graduate with a Bachelors Degree in Computer Science and Mathematics (YSU 2022)
 - 🥅 2024 Goals: Land a job as a software engineer!
